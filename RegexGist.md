@@ -218,6 +218,9 @@ The following tests were run on the regex expression discussed:
 
 ![image info](./tests.png)
 
+
+If you have difficulty viewing this in GitHub please open the tests.png file and view separately.
+
 <br>
 
 ---------------------------
@@ -258,4 +261,6 @@ Email Contact Info:
 gmcmurray1493@gmail.com
 
 My github username is : gmcmurray
+
+Thank You!
 
